@@ -22,7 +22,6 @@ sudo gcc -o sfe sfe.c -lm -lsndfile
 
 python teste.py
 
-![alt text](fft.png)
+![alt text](feat.png)
 
-![alt text](rms.png)
 
